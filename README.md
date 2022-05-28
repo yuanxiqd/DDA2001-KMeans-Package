@@ -4,7 +4,7 @@
 
 > Two scripts are included in the package as follows. 
 > 1. $dda2001kmeans.m$;
-> 2. $final\_kmeans.m$.
+> 2. $final_kmeans.m$.
 
 > The main script $final\_kmeans.m$ gives you an interface to input the relavant data set and hyperparameters. The other script $dda2001kmeans.m$ furthermore receives the transferred data to implement the kmeans algorithms. Then, you will get the clustering results.
 
